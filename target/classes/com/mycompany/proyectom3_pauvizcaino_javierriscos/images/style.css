@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 10 may 2023, 18:44:04
+    Author     : PauVizcaino
+*/
+
+/*Estilo para la raiz*/
+.root{
+    -fx-background-image:url("P&j.png");
+    -fx-background-size:cover;
+}
+
+/*Estilo para los botones*/
+.button {
+    -fx-background-color: black;
+    -fx-border-color: black;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 20px;
+}
+
+/*Estilo para los campos donde se introduce el texto - TEXTFIELD*/
+.text-field {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
